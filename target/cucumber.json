@@ -1,0 +1,108 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 106937600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "step.definitions.DesktopsStepDef.User_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-06-03T10:09:38.500Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10315106200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "User empty Shopping cart message displays",
+        "description": "",
+        "id": "test-scenarios-for-home-page;user-empty-shopping-cart-message-displays",
+        "after": [
+          {
+            "result": {
+              "duration": 252132400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 696272600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User click on shopping cart",
+            "match": {
+              "location": "step.definitions.HomePageStepDef.user_click_on_shopping_cart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 97947600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "“Your shopping cart is empty!” message should display",
+            "match": {
+              "location": "step.definitions.HomePageStepDef.your_shopping_cart_is_empty_message_should_display()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CompeleteHomePageTest"
+          },
+          {
+            "name": "@HomePageTest2"
+          }
+        ]
+      }
+    ],
+    "name": "Test scenarios for Home Page",
+    "description": "",
+    "id": "test-scenarios-for-home-page",
+    "keyword": "Feature",
+    "uri": "classpath:feature/HomePage.feature",
+    "tags": [
+      {
+        "name": "@CompeleteHomePageTest",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

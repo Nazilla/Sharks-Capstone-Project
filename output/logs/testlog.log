@@ -604,3 +604,271 @@
 2022-06-03 13:09:49,716 - .\src\test\resources\input\log4j.properties -INFO - User clicked on shopping car
 2022-06-03 13:09:49,815 - .\src\test\resources\input\log4j.properties -INFO -  “Your shopping cart is empty!” message displayed 
 2022-06-03 13:09:50,072 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-08 15:52:27,804 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-08 15:52:47,072 - .\src\test\resources\input\log4j.properties -INFO - user click on Desktop Tab
+2022-06-08 15:52:48,586 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops
+2022-06-08 15:52:48,664 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart on 'HP LP3065' item  
+2022-06-08 15:52:52,370 - .\src\test\resources\input\log4j.properties -INFO - user entered quantity
+2022-06-08 15:52:52,427 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 15:53:02,817 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-08 15:55:23,183 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-08 15:55:30,290 - .\src\test\resources\input\log4j.properties -INFO - user click on Desktop Tab
+2022-06-08 15:55:31,788 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops
+2022-06-08 15:55:31,866 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart on 'HP LP3065' item  
+2022-06-08 15:55:34,688 - .\src\test\resources\input\log4j.properties -INFO - user entered quantity
+2022-06-08 15:55:34,766 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 15:55:40,919 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-08 15:57:05,755 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-08 15:57:12,867 - .\src\test\resources\input\log4j.properties -INFO - user click on Desktop Tab
+2022-06-08 15:57:14,168 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops
+2022-06-08 15:57:14,263 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart on 'HP LP3065' item  
+2022-06-08 15:57:17,000 - .\src\test\resources\input\log4j.properties -INFO - user entered quantity
+2022-06-08 15:57:17,071 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 15:57:26,909 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-08 15:57:34,878 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-08 15:57:43,123 - .\src\test\resources\input\log4j.properties -INFO - user click on Desktop Tab
+2022-06-08 15:57:44,366 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops
+2022-06-08 15:57:44,438 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart on 'HP LP3065' item  
+2022-06-08 15:57:47,086 - .\src\test\resources\input\log4j.properties -INFO - user entered quantity
+2022-06-08 15:57:47,186 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 15:57:53,405 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-08 15:59:44,050 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-08 15:59:51,557 - .\src\test\resources\input\log4j.properties -INFO - user click on Desktop Tab
+2022-06-08 15:59:52,866 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops
+2022-06-08 15:59:52,944 - .\src\test\resources\input\log4j.properties -INFO - user clicked add to cart on 'HP LP3065' item  
+2022-06-08 15:59:55,768 - .\src\test\resources\input\log4j.properties -INFO - user entered quantity
+2022-06-08 15:59:55,829 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 16:00:00,870 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 16:00:06,147 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-08 16:08:28,174 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-08 16:08:35,585 - .\src\test\resources\input\log4j.properties -INFO - user click on Desktop Tab
+2022-06-08 16:08:37,102 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops
+2022-06-08 18:46:34,013 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-08 18:46:42,644 - .\src\test\resources\input\log4j.properties -INFO - user click on Desktop Tab
+2022-06-08 18:46:43,966 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Show All Desktops
+2022-06-08 18:46:57,923 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 18:47:03,213 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-06-08 18:58:58,447 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-08 18:59:08,028 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 18:59:09,078 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 18:59:11,912 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MacBook Item
+2022-06-08 18:59:11,966 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 18:59:17,233 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 18:59:18,410 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-06-08 19:01:04,515 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-08 19:01:13,477 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:01:14,447 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:01:17,866 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MacBook Item
+2022-06-08 19:01:17,920 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 19:01:23,109 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:01:24,360 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-06-08 19:07:36,524 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-08 19:07:44,179 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:07:45,395 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:07:48,085 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MacBook Item
+2022-06-08 19:07:48,142 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 19:07:53,386 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:07:53,783 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-06-08 19:08:35,741 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-08 19:08:42,666 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:08:43,661 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:08:46,468 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MacBook Item
+2022-06-08 19:08:46,534 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 19:08:51,797 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:08:51,836 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 is present in this page
+2022-06-08 19:08:51,891 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Cart
+2022-06-08 19:08:56,951 - .\src\test\resources\input\log4j.properties -INFO - user clicked X button
+2022-06-08 19:08:56,977 - .\src\test\resources\input\log4j.properties -INFO - Loading... is present in this page
+2022-06-08 19:09:02,304 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-06-08 19:10:24,585 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-08 19:10:32,021 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:10:33,069 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:10:36,039 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MacBook Item
+2022-06-08 19:10:36,102 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 19:10:41,340 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:10:41,572 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-06-08 19:11:21,566 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-08 19:11:30,866 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:11:31,880 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:11:36,509 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MacBook Item
+2022-06-08 19:11:36,576 - .\src\test\resources\input\log4j.properties -INFO - user added item to cart
+2022-06-08 19:11:41,794 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:11:43,049 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-06-08 19:13:24,444 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:13:32,386 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:13:33,413 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:13:33,560 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:13:33,645 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:13:33,902 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:13:39,572 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison link
+2022-06-08 19:13:39,678 - .\src\test\resources\input\log4j.properties -INFO - user could see Product Comparison Chart
+2022-06-08 19:13:44,941 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-06-08 19:17:08,355 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:17:17,353 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:17:18,305 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:17:18,424 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:17:18,495 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:17:24,428 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison link
+2022-06-08 19:17:24,534 - .\src\test\resources\input\log4j.properties -INFO - user could see Product Comparison Chart
+2022-06-08 19:17:29,911 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-06-08 19:18:16,915 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:18:24,422 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:18:25,655 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:18:25,874 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:18:25,955 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:19:37,988 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:19:47,375 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:19:48,358 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:19:48,487 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:19:48,570 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:19:54,102 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-06-08 19:24:20,701 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:24:29,550 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:24:42,351 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:24:42,430 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:24:42,484 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:24:43,032 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-06-08 19:25:43,916 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:25:52,588 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:25:54,199 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:25:54,324 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:25:54,376 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:25:54,951 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-06-08 19:26:23,347 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:26:31,743 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:26:36,440 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:26:36,505 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:26:36,560 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:26:38,049 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-06-08 19:27:12,171 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:27:20,006 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:27:21,009 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:27:21,175 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:27:21,231 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:27:22,065 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-06-08 19:30:31,928 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:30:35,790 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-06-08 19:31:35,764 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:31:44,978 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:31:48,720 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:31:48,811 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:31:51,925 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:31:55,027 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:31:58,972 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison link
+2022-06-08 19:31:59,135 - .\src\test\resources\input\log4j.properties -INFO - user could see Product Comparison Chart
+2022-06-08 19:32:04,417 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-06-08 19:32:52,098 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:33:00,248 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:33:01,315 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:33:01,468 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:33:04,578 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:33:07,621 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:33:11,607 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison link
+2022-06-08 19:33:11,781 - .\src\test\resources\input\log4j.properties -INFO - user could see Product Comparison Chart
+2022-06-08 19:33:17,108 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-06-08 19:34:55,570 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-08 19:35:03,303 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:35:04,494 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:35:04,648 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook’
+2022-06-08 19:35:07,766 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison icon on ‘MacBook Air’
+2022-06-08 19:35:10,815 - .\src\test\resources\input\log4j.properties -INFO - user got the success message
+2022-06-08 19:35:14,655 - .\src\test\resources\input\log4j.properties -INFO - user clicked on product comparison link
+2022-06-08 19:35:14,780 - .\src\test\resources\input\log4j.properties -INFO - user could see Product Comparison Chart
+2022-06-08 19:35:20,100 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-06-08 19:38:56,371 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-08 19:39:04,347 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:39:05,317 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:39:05,475 - .\src\test\resources\input\log4j.properties -INFO - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-06-08 19:39:05,896 - .\src\test\resources\input\log4j.properties -INFO - user got the message
+2022-06-08 19:39:11,147 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-06-08 19:51:35,651 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-08 19:51:43,479 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:51:44,500 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:51:44,715 - .\src\test\resources\input\log4j.properties -INFO - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-06-08 19:51:45,344 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-06-08 19:52:55,714 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-08 19:53:03,885 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:53:04,865 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:53:05,049 - .\src\test\resources\input\log4j.properties -INFO - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-06-08 19:53:10,503 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-06-08 19:53:38,738 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-08 19:53:46,713 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:53:47,790 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:53:47,895 - .\src\test\resources\input\log4j.properties -INFO - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-06-08 19:53:58,359 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-06-08 19:54:23,635 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-08 19:54:30,978 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:54:32,025 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:54:32,110 - .\src\test\resources\input\log4j.properties -INFO - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-06-08 19:54:42,574 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-06-08 19:58:39,485 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-08 19:58:47,036 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 19:58:48,011 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 19:58:48,199 - .\src\test\resources\input\log4j.properties -INFO - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-06-08 19:58:58,235 - .\src\test\resources\input\log4j.properties -INFO - user got the message
+2022-06-08 19:58:58,644 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-06-08 23:00:46,470 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-08 23:00:57,607 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 23:00:59,404 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 23:00:59,528 - .\src\test\resources\input\log4j.properties -INFO - user clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-06-08 23:01:09,619 - .\src\test\resources\input\log4j.properties -INFO - user got the message
+2022-06-08 23:01:10,273 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-06-08 23:21:27,070 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-08 23:21:34,922 - .\src\test\resources\input\log4j.properties -INFO - user click on Laptops & Notebooks Tab
+2022-06-08 23:21:36,114 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all Laptops & Notebooks
+2022-06-08 23:21:39,652 - .\src\test\resources\input\log4j.properties -INFO - user clicked on ‘MacBook Pro’ item
+2022-06-08 23:21:44,690 - .\src\test\resources\input\log4j.properties -INFO - user saw the price
+2022-06-08 23:21:46,307 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-06-08 23:29:51,324 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-06-08 23:29:59,288 - .\src\test\resources\input\log4j.properties -INFO - User clicked on MyAccount
+2022-06-08 23:29:59,880 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Login
+2022-06-08 23:30:00,259 - .\src\test\resources\input\log4j.properties -INFO - User entered Email and password 
+2022-06-08 23:30:00,903 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Login button
+2022-06-08 23:30:31,242 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-06-08 23:33:09,635 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-06-08 23:33:18,436 - .\src\test\resources\input\log4j.properties -INFO - User clicked on MyAccount
+2022-06-08 23:33:19,012 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Login
+2022-06-08 23:33:19,192 - .\src\test\resources\input\log4j.properties -INFO - User entered Email and password 
+2022-06-08 23:33:19,995 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Login button
+2022-06-08 23:33:20,134 - .\src\test\resources\input\log4j.properties -INFO - User logged in to MyAccount dashboard
+2022-06-08 23:33:21,679 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ‘Edit your account information’ link
+2022-06-08 23:33:25,098 - .\src\test\resources\input\log4j.properties -INFO - User modified the information
+2022-06-08 23:33:25,590 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Continue button
+2022-06-08 23:33:37,545 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information FAILED
+2022-06-08 23:33:59,277 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information started
+2022-06-08 23:34:06,282 - .\src\test\resources\input\log4j.properties -INFO - User clicked on MyAccount
+2022-06-08 23:34:06,859 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Login
+2022-06-08 23:34:07,059 - .\src\test\resources\input\log4j.properties -INFO - User entered Email and password 
+2022-06-08 23:34:07,831 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Login button
+2022-06-08 23:34:07,952 - .\src\test\resources\input\log4j.properties -INFO - User logged in to MyAccount dashboard
+2022-06-08 23:34:09,511 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ‘Edit your account information’ link
+2022-06-08 23:34:13,170 - .\src\test\resources\input\log4j.properties -INFO - User modified the information
+2022-06-08 23:34:14,018 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Continue button
+2022-06-08 23:34:14,051 - .\src\test\resources\input\log4j.properties -INFO - User got the message ‘Success: Your account has been successfully updated.’
+2022-06-08 23:34:18,203 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account Information PASSED
+2022-06-08 23:41:24,612 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-06-08 23:41:33,184 - .\src\test\resources\input\log4j.properties -INFO - User clicked on shopping car
+2022-06-08 23:41:33,248 - .\src\test\resources\input\log4j.properties -INFO -  “Your shopping cart is empty!” message displayed 
+2022-06-08 23:41:33,476 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-08 23:42:00,285 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-06-08 23:42:08,247 - .\src\test\resources\input\log4j.properties -INFO - User clicked on shopping car
+2022-06-08 23:42:08,292 - .\src\test\resources\input\log4j.properties -INFO -  “Your shopping cart is empty!” message displayed 
+2022-06-08 23:42:08,477 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-08 23:42:43,155 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-06-08 23:42:50,924 - .\src\test\resources\input\log4j.properties -INFO - User clicked on shopping car
+2022-06-08 23:42:54,056 - .\src\test\resources\input\log4j.properties -INFO -  “Your shopping cart is empty!” message displayed 
+2022-06-08 23:42:54,324 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-08 23:43:16,541 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-06-08 23:43:24,470 - .\src\test\resources\input\log4j.properties -INFO - User clicked on shopping car
+2022-06-08 23:43:27,586 - .\src\test\resources\input\log4j.properties -INFO -  “Your shopping cart is empty!” message displayed 
+2022-06-08 23:43:27,857 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-08 23:43:42,158 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-06-08 23:43:49,265 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Currency
+2022-06-08 23:43:50,062 - .\src\test\resources\input\log4j.properties -INFO - User Chose Euro from dropdown
+2022-06-08 23:43:50,099 - .\src\test\resources\input\log4j.properties -INFO - currency value changed to Euro
+2022-06-08 23:43:53,382 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-06-08 23:43:58,790 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-06-08 23:44:06,206 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Currency
+2022-06-08 23:44:07,090 - .\src\test\resources\input\log4j.properties -INFO - User Chose Euro from dropdown
+2022-06-08 23:44:07,149 - .\src\test\resources\input\log4j.properties -INFO - currency value changed to Euro
+2022-06-08 23:44:10,499 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change PASSED

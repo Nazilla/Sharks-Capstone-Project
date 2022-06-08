@@ -59,7 +59,7 @@ public class HomePageStepDef extends Base{
 	
 	@Then("“Your shopping cart is empty!” message should display")
 	public void your_shopping_cart_is_empty_message_should_display() {
-	   
+		ThreadSleepMethod(3);
 		Assert.assertTrue( homepage.isDisplayed_EmptyCart_Message() ) ;
 		logger.info(" “Your shopping cart is empty!” message displayed ");
 	}

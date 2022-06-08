@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 106937600,
+              "duration": 141914500,
               "status": "passed"
             },
             "line": 5,
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-06-03T10:09:38.500Z",
+        "start_timestamp": "2022-06-08T20:43:58.576Z",
         "before": [
           {
             "result": {
-              "duration": 10315106200,
+              "duration": 7311203800,
               "status": "passed"
             },
             "match": {
@@ -36,14 +36,14 @@
             }
           }
         ],
-        "line": 17,
-        "name": "User empty Shopping cart message displays",
+        "line": 9,
+        "name": "User verify currency values change",
         "description": "",
-        "id": "test-scenarios-for-home-page;user-empty-shopping-cart-message-displays",
+        "id": "test-scenarios-for-home-page;user-verify-currency-values-change",
         "after": [
           {
             "result": {
-              "duration": 252132400,
+              "duration": 343607600,
               "status": "passed"
             },
             "match": {
@@ -56,25 +56,37 @@
         "steps": [
           {
             "result": {
-              "duration": 696272600,
+              "duration": 70959000,
               "status": "passed"
             },
-            "line": 18,
-            "name": "User click on shopping cart",
+            "line": 10,
+            "name": "User click on Currency",
             "match": {
-              "location": "step.definitions.HomePageStepDef.user_click_on_shopping_cart()"
+              "location": "step.definitions.HomePageStepDef.user_click_on_currency()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 97947600,
+              "duration": 882817300,
               "status": "passed"
             },
-            "line": 19,
-            "name": "“Your shopping cart is empty!” message should display",
+            "line": 11,
+            "name": "User Choose Euro from dropdown",
             "match": {
-              "location": "step.definitions.HomePageStepDef.your_shopping_cart_is_empty_message_should_display()"
+              "location": "step.definitions.HomePageStepDef.user_chose_euro_from_dropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3060452800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "currency value should change to Euro",
+            "match": {
+              "location": "step.definitions.HomePageStepDef.currency_value_should_change_to_euro()"
             },
             "keyword": "Then "
           }
@@ -84,7 +96,7 @@
             "name": "@CompeleteHomePageTest"
           },
           {
-            "name": "@HomePageTest2"
+            "name": "@HomePageTest1"
           }
         ]
       }

@@ -55,20 +55,27 @@ public class LaptopsAndNotebooksStepDef extends Base{
 		String expectedText = "Success: You have added MacBook to your shopping cart!";
 		String ActualMessage = LapNotePage.MacBook_addToCart_SuccessMessage_Text();
 		
+		if ( ActualMessage.contains( expectedText ) == true ) {
+			
+			Util.takeScreenShot();
+			logger.info("user got the success message");
+		}
+		else {
+			System.out.println("Expected Message and Actual Message doesn't match ");
+		}
+		
 		//Assert.assertEquals( expectedText , ActualMessage );
-		System.out.println(ActualMessage );
-		//Util.takeScreenShot();
-		logger.info("user got the success message");
+		
 	}
 	
 	//check again
 	@Then("User should see ‘{int} tem\\(s){double}’ showed to the cart")
 	public void user_should_see_tem_s_showed_to_the_cart(Integer int1, Double double1) {
 	   
-		String expectedMessage = "1 tem(s)-602.00";
+		String expectedMessage = "1 item(s) - $602.00";
 		String ActualMessage = LapNotePage.getText_Cart();
 		System.out.println(ActualMessage );
-		//Assert.assertEquals(expectedMessage, ActualMessage);
+		Assert.assertEquals(expectedMessage, ActualMessage);
 		//Util.takeScreenShot();
 		logger.info( ActualMessage + " is present in this page" );
 	}
@@ -78,6 +85,7 @@ public class LaptopsAndNotebooksStepDef extends Base{
 	    
 		LapNotePage.clickOn_Cart();
 		logger.info("user clicked on Cart");
+		ThreadSleepMethod(5);
 	}
 	
 	@Then("user click on red X button to remove the item from cart")
@@ -113,7 +121,8 @@ public class LaptopsAndNotebooksStepDef extends Base{
 	public void user_click_on_product_comparison_icon_on_mac_book() {
 		
 		LapNotePage.clickOn_MacBook_CompareThisProduct();
-		logger.info("user clicked on product comparison icon on ‘MacBook’");	    
+		logger.info("user clicked on product comparison icon on ‘MacBook’");
+		ThreadSleepMethod(3);
 	}
 	
 	@When("User click on product comparison icon on ‘MacBook Air’")
@@ -121,6 +130,7 @@ public class LaptopsAndNotebooksStepDef extends Base{
 	
 		LapNotePage.clickOn_MacBookAir_CompareThisProduct();
 		logger.info("user clicked on product comparison icon on ‘MacBook Air’");
+		ThreadSleepMethod(3);
 	}
 	
 	@Then("User should see a message ‘Success: You have added MacBook Air to your product comparison!’")
@@ -128,10 +138,15 @@ public class LaptopsAndNotebooksStepDef extends Base{
 		
 		String ExpectedMessage ="Success: You have added MacBook Air to your product comparison!";
 		String ActualMessage = LapNotePage.getText_MacBookAir_productComparison_Message();
-		System.out.println(ActualMessage );
+		
+		if ( ActualMessage.contains( ExpectedMessage ) == true  ) {
+			logger.info( "user got the success message" );
+		}
+		else {
+			System.out.println( "Expected Message and Actual Message doesn't match " );
+		}
 		//Assert.assertEquals(ExpectedMessage, ActualMessage);
-		logger.info( "user got the success message" );
-		ThreadSleepMethod(5);
+		ThreadSleepMethod(3);
 	}
 	
 	@Then("User click on Product comparison link")
@@ -148,7 +163,7 @@ public class LaptopsAndNotebooksStepDef extends Base{
 		LapNotePage.isDisplayed_MacBook_OnProductComparison();
 		LapNotePage.isDisplayed_MacBookAir_OnProductComparison();
 		logger.info( "user could see Product Comparison Chart" );
-		//Util.takeScreenShot();
+		Util.takeScreenShot();
 		ThreadSleepMethod(5);
 	}
 	
@@ -167,16 +182,19 @@ public class LaptopsAndNotebooksStepDef extends Base{
 	
 	@Then("User should get a message ‘You must login or create an account to save Sony VAIO to your wish list!’")
 	public void user_should_get_a_message_you_must_login_or_create_an_account_to_save_sony_vaio_to_your_wish_list() {
-	    
+		ThreadSleepMethod( 10 );
 		String expectedMessage = "You must login or create an account to save Sony VAIO to your wish list!";
 		String ActualMessage = LapNotePage.getText_WishListMessage();
 		
-		System.out.println(ActualMessage);
+		if( ActualMessage.contains( expectedMessage ) == true ) {
+			logger.info("user got the message");
+			Util.takeScreenShot();
+		}
+		else {
+			System.out.println("Expected Message and Actual Message doesn't match");
+			System.out.println(ActualMessage);
+		}
 		//Assert.assertEquals(expectedMessage, ActualMessage);
-		//Util.takeScreenShot();
-		logger.info("user got the message");
-		ThreadSleepMethod(5);
-		
 	}
 	
 	

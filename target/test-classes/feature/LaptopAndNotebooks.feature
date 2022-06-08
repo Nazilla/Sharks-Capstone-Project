@@ -18,7 +18,7 @@ Feature: Test scenarios for Laptops And NoteBook
 		And user click on red X button to remove the item from cart
 		Then item should be removed and cart should show ‘0 item(s)’
 		
-		
+		#done
 		@LaptopNoteBookTest2
 		Scenario: Product Comparison
 		And User click on Show all Laptop &NoteBook option
@@ -28,14 +28,14 @@ Feature: Test scenarios for Laptops And NoteBook
 		And User click on Product comparison link
 		Then User should see Product Comparison Chart
 		
-		
+		#done
 		@LaptopNoteBookTest3
 		Scenario: Adding an item to Wish list
 		And User click on Show all Laptop &NoteBook option
 		And User click on heart icon to add ‘Sony VaIO’ laptop to wish list
 		Then User should get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
 		
-		
+		#done
 		@LaptopNoteBookTest4
 		Scenario: Validate the price of MacBook Pro is 2000
 		And User click on Show all Laptop &NoteBook option

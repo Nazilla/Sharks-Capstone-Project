@@ -34,6 +34,6 @@ Feature: Test scenarios for Retail Page
     When User click on ‘Edit your account information’ link
     And User modify below information
       | firstname | lastName | email              | telephone |
-      | Mo        | Salah    | Liverpool@YNWA.com |   1234567 |
+      | Naz       | sultani    | Nazilla.sultani@gmail.com |   1234567 |
     And User click on Continue button
     Then User should see a message ‘Success: Your account has been successfully updated.’
